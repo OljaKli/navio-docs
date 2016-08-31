@@ -2,7 +2,7 @@
 
 We're now in process of transitioning our deploy scheme. That's why we strongly encourage you to look into this article.
 For a year our users had been asked to install a *deb* package with a ```dpkg -i``` command. This is a rather cumbersome way to get things done.
-From now on we deploy the packages to our repository making to possible to use ```apt-get``` out of the box.
+From now on we deploy the packages to our repository making it possible to use ```apt-get``` out of the box.
 
 #### General warnings
 
